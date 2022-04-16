@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DataGithubUser</string>
+    <string name="github_user">Github User</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="username_format">\@%s</string>
+    <string name="content_description">Octocat</string>
+    <string name="getLocation">Location: %s</string>
+    <string name="getRepository">%s have %s repositories</string>
+    <string name="getCompany">Company: %s</string>
+    <string name="getFollowers">Followers: %s</string>
+    <string name="getFollowing">Following: %s</string>
+    <string name="query_search">Search users..</string>
+    <string name="tab_title_following">Following</string>
+    <string name="tab_title_followers">Followers</string>
+    <string name="data_is_empty">Data is empty!</string>
+    <string name="add_favorite">%s has been added to favorite</string>
+    <string name="un_add_favorite">%s has been deleted from favorite</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
